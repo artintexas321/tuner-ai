@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'TunerAI — ECU Datalog Analysis',
-  description: 'AI-powered ECU datalog analysis for high-performance tuning shops',
+  description: 'AI-powered ECU datalog analysis for high-performance tuning shops. © 2026 Tovar Euro LLC.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

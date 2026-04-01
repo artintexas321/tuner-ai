@@ -349,6 +349,7 @@ export default function Home() {
           <div className="bg-gray-900 border border-gray-700 rounded-xl p-4 text-sm text-gray-400">
             <div className="font-semibold text-gray-300 mb-1">Built by Tovar Euro Performance × TunerAI</div>
             <div>Boutique performance shop · Boerne, TX · tovareuro.com</div>
+            <div className="mt-2 text-xs text-gray-600">© 2026 Tovar Euro LLC. All rights reserved. TunerAI and all associated software, designs, and methodologies are proprietary to Tovar Euro LLC.</div>
           </div>
         </div>
       )}
