@@ -26,7 +26,7 @@ interface Recommendation {
   severity: 'warning' | 'ok' | 'info'
   title: string
   detail: string
-  channel?: string
+  channel?: string | null
 }
 
 const RECOMMENDATIONS: Recommendation[] = [
